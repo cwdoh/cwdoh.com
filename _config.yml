@@ -1,0 +1,21 @@
+# Site settings
+fullname: "Chang W. Doh"
+username: cwdoh
+title: "Developing more than everything..."
+email: changwook.doh@gmail.com
+email_simple_encrypt:
+description: "Technologist and educator in mobile, game and HTML5 area."
+message: ""
+baseurl: ""
+url: "http://cwdoh.com"
+github: cwdoh
+twitter: cwdoh
+facebook: changw.doh
+googleplus: +ChangwookDoh
+linkedin: "http://goo.gl/0FG1js"
+blogger: html5rocksko
+comments: true
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
